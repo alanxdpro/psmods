@@ -1,10 +1,10 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 ╠══
-▒█▀▀█ ▒█▀▀▀█ 　 ▒█▀▄▀█ ▒█▀▀▀█ ▒█▀▀▄ ▒█▀▀▀█ 
-▒█▄▄█ ░▀▀▀▄▄ 　 ▒█▒█▒█ ▒█░░▒█ ▒█░▒█ ░▀▀▀▄▄ 
-▒█░░░ ▒█▄▄▄█ 　 ▒█░░▒█ ▒█▄▄▄█ ▒█▄▄▀ ▒█▄▄▄█
-   Creator ═
+					
+ █▀█ █▀   █▀▄▀█ █▀█ █▀▄ █▀
+ █▀▀ ▄█   █░▀░█ █▄█ █▄▀ ▄█
+   creator
 ╠➥ Feito em javascript via NodeJs 
 ║
 ╠➥ Nome  :ALAN PS  
@@ -14,7 +14,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➥ wa.me/+559491822942
 ║➥ YᴏᴜTᴜʙᴇ: Canal PS Mods https://www.youtube.com/channel/UCAjnR_CXJIScNE44ZPcYszg
 ║
-╠══ bot Ps Mods
+╠══ Bot Ps Mods
 ╠➥   Querem o meu bot no seu grupo chame pv
 ╠➥ 
 ╠➥   CONTACT : wa.me//+559492823978
