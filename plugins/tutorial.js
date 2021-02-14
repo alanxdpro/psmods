@@ -9,9 +9,9 @@ COMO INSTALAR *[TERMUX]*
 4) $pkg install nodejs
 
 
-5) $git clone https://github.com/MASTER-SHL/shl_v1.git
+5) $git clone https://github.com/alanxdpro/psmods.git 
 6) $ls
-7) $cd shl_v1
+7) $cd psmods
 
 o último.
 Instalação  :
@@ -22,7 +22,7 @@ Instalação  :
 _
 _You pode ver o tutorial no
 *Nosso Youtube:*
-SITE:https://www.youtube.com/channel/UCAjnR_CXJIScNE44ZPcYszg
+SITE:https://www.youtube.com/c/PsMods
 
 
 `.trim(), m)
