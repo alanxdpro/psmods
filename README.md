@@ -8,7 +8,7 @@ Ps Mods Whatsapp bot Simples
 > pkg install ffmpeg
 > pkg install imagemagick
 > git clone https://github.com/alanxdpro/psmods.git
-> cd psmods-main
+> cd psmods
 > npm install
 ```
 ###### Run
@@ -21,7 +21,7 @@ Ps Mods Whatsapp bot Simples
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
 > git clone https://github.com/alanxdpro/psmods.git
-> cd psmods-main
+> cd psmods
 > npm install
 ```
 ###### Run
@@ -30,4 +30,5 @@ Ps Mods Whatsapp bot Simples
 ```
  Instagram: alan.psxd
  
- Youtube: ps mods 
+ Youtube: ps mods
+ YOUTUBE: https://www.youtube.com/c/PsMods
