@@ -1,4 +1,4 @@
-# shl_v1- bot
+# PS MODS- bot
 Ps Mods Whatsapp bot Simples
 ### FOR TERMUX USER
 ```bash
