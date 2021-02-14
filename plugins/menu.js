@@ -33,9 +33,13 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
 					
- █▀█ █▀   █▀▄▀█ █▀█ █▀▄ █▀
- █▀▀ ▄█   █░▀░█ █▄█ █▄▀ ▄█
- 
+					
+      █▀█ █▀  
+      █▀▀ ▄█  
+  █▀▄▀█ █▀█ █▀▄ █▀
+  █░▀░█ █▄█ █▄▀ ▄█
+  
+
  █▀█ █▀ ▀ █▀ ▀ █▀█ █
  █▄█ █▀ █ █▄ █ █▀█ █▄
    bot Edit
@@ -97,8 +101,8 @@ como Adicionar XP:
 ╠➥ ${_p}mutechat group
 ║
 ╠═〘 ADVERTISEMENT 〙 ═
-╠➥ Instagram: https://instagram.com/s_h_l__royalmaster?igshid=5r91qr6aoh7b
-╠➥ YᴏᴜTᴜʙᴇ: https://youtube.com/channel/UCC8P1xSDECr5URXD5bMrkFQ
+╠➥ Instagram: https://www.instagram.com/allan.psxd/
+╠➥ YᴏᴜTᴜʙᴇ: https://www.youtube.com/c/PsMods
 ║
 ╠═════
 ║ Advanced:
